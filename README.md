@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there 👋, I'm Manvendra Kumar
 
-<!--
-**manav0777/Manav0777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Software Engineer
 
-Here are some ideas to get you started:
+I am a Computer Science Engineering student passionate about building practical software solutions and continuously improving my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Learning
+
+- Python Backend Development
+- Pega Platform
+- AI & Machine Learning
+- SQL
+- Core Java
+- Data Structures & Algorithms
+
+---
+
+### 🛠 Tech Stack
+
+- Python
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+---
+
+### 📌 Featured Projects
+
+- 🏥 Hospital Management System
+- 📧 Email Extractor Tool
+- 📈 Stock Portfolio Investment Tracker
+- 🎮 Hangman Game
+
+---
+
+### 🎯 Current Goal
+
+Building scalable backend applications, learning enterprise automation with Pega, and strengthening problem-solving skills through real-world projects.
+
+---
+
+### 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/manav007
+
